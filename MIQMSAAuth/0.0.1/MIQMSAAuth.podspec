@@ -107,6 +107,7 @@ s.source       = { :git => "https://github.com/MobileDataLabs/IQAuthentication-i
 
   # s.resource  = "icon.png"
   # s.resources = "Resources/*.png"
+  s.resource  = "MIQMSAAuth/MIQMSAAuth/MSAAuthentication/MSAAuthenticationBundle.bundle"
 
   # s.preserve_paths = "FilesToSave", "MoreFilesToSave"
 
